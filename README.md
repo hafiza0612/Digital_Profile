@@ -14,12 +14,12 @@
 
 #### Educational Details
 - **B.tech**
-- R.V.R & J.C.C.E
-- Chowdavaram
-- Guntur
-- CSE
-- III-Year
-- Percentage: 9.3
+  - RVR & JCCE College
+  - Chowdavaram,Guntur
+  - CSE(III/IV)
+  - 2018-2022
+  - Percentage: 9.3
+
 - **Intermediate**
 - Narayana Junior College
 - Gudavalli,Vijaywada
