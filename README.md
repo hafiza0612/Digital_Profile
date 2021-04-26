@@ -21,12 +21,12 @@
   - Percentage: 9.3
 
 - **Intermediate**
-- Narayana Junior College
-- Gudavalli,Vijaywada
-- MPC
-- 2016-2018
-- Percentage: 98.4
-- - **SSC**
+  - Narayana Junior College
+  - Gudavalli,Vijaywada
+  - MPC
+  - 2016-2018
+  - Percentage: 98.4
+  - **SSC**
 - Srinivasa Public School
 - Pedanandipadu
 - Guntur
