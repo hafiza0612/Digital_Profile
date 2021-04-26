@@ -26,30 +26,30 @@
   - MPC
   - 2016-2018
   - Percentage: 98.4
-  - **SSC**
-- Srinivasa Public School
-- Pedanandipadu
-- Guntur
-- 2004-2016
-- Percentage: 9.8
+- **SSC**
+  - Srinivasa Public School
+  - Pedanandipadu
+  - Guntur
+  - 2004-2016
+  - Percentage: 9.8
 
 #### Technical Skills
-- C Language
-- Python
-- Web Technologies
-- Java
-- Data Base_MySQL
-- Git & Github
+   - C Language
+   - Python
+   - Web Technologies
+   - Java
+   - Data Base_MySQL
+   - Git & Github
 
 #### Projects
-- Title of Project Portfolio(Digital Profile)
+   - Title of Project Portfolio(Digital Profile)
 
 #### Language Proficiency
-- Telugu
-- English
-- Hindi
+   - Telugu
+   - English
+   - Hindi
 
 #### Certifications
-- Data Base Management Systems_NPTEL
-- The Joy of computing through Python_NPTEL
-- Software Testing_NPTEL
+  - Data Base Management Systems_NPTEL
+  - The Joy of computing through Python_NPTEL
+  - Software Testing_NPTEL
